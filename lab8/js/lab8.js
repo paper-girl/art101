@@ -21,4 +21,6 @@ array.map(function(x) {
     var results = x * 2
     return results; 
 })
-    
+
+console.log("multiply array:", result)
+
